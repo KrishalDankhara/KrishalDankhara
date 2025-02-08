@@ -72,9 +72,4 @@
 
 ---
 
-### 🎯 Fun Fact  
-> *"Programming isn't about what you know; it's about what you can figure out."* – Chris Pine  
-
----
-
 🚀 **Thanks for visiting my GitHub profile! Feel free to connect and collaborate.** 😃🎉
