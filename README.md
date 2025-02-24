@@ -13,13 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=krishaldankhara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishaldankhara&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me  
