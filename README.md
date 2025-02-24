@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Aspiring+MERN+Developer;Open-Source+Enthusiast;Tech+Explorer;Passionate+Coder" alt="Typing SVG" />
 </p>
 
----
+
 
 <!-- Profile Views Counter -->
 <p align="center">
